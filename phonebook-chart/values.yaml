@@ -1,0 +1,2 @@
+webserver_image: havvanur94/phonebook-webserver
+resultserver_image: havvanur94/phonebook-resultserver
